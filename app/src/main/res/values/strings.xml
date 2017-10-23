@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Penampil Kode Sumber Website</string>
+
+    <string name="enter_url">Enter URL</string>
+    <string name="hint_url">www.example.com</string>
+    <string name="text_empty">Page source will appear here</string>
+    <string name="action_get_source_code">Get Page Source Code</string>
+
+    <string-array name="protocol_array">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
